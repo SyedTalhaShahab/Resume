@@ -1,2 +1,2 @@
 # Resume
-This describes a typical resume.
+This describes my tailored resume.
